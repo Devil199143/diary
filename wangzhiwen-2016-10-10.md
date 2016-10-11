@@ -106,4 +106,18 @@ Android Studio布局的学习
 
 </LinearLayout>
 
-！[日报登入系统](/pic/)
+![日报登入系统](https://github.com/Devil199143/diary/blob/master/%E6%8D%95%E8%8E%B7.PNG)
+
+3.未完成的工作
+
+无
+
+4.未完成的原因
+
+无
+
+5.遇到的问题及解决方案
+
+请教老师及同学
+
+
